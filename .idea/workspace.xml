@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a77f8197-dbfb-4a16-9c12-adab1404016f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Urban_Puthon_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2_3.py" afterDir="false" />
+    <list default="true" id="a77f8197-dbfb-4a16-9c12-adab1404016f" name="Changes" comment="added homework #3">
+      <change afterPath="$PROJECT_DIR$/module_2_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kadzzi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kadzzi/Urban_Puthon_2.git",
+    "accountId": "f628b9e4-794d-4771-8b38-e59d41fb0d5f"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -44,6 +49,7 @@
     "Python.module_2_1.executor": "Debug",
     "Python.module_2_2.executor": "Run",
     "Python.module_2_3.executor": "Run",
+    "Python.module_2_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -64,7 +70,20 @@
       <option name="presentableId" value="Default" />
       <updated>1720617662471</updated>
     </task>
+    <task id="LOCAL-00001" summary="added homework #3">
+      <option name="closed" value="true" />
+      <created>1720623313097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720623313097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added homework #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework #3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
