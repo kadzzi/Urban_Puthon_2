@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a77f8197-dbfb-4a16-9c12-adab1404016f" name="Changes" comment="added homework #4">
-      <change afterPath="$PROJECT_DIR$/module_2_5.py" afterDir="false" />
+    <list default="true" id="a77f8197-dbfb-4a16-9c12-adab1404016f" name="Changes" comment="module_2_6 decomposition">
+      <change beforePath="$PROJECT_DIR$/.idea/Urban_Puthon_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Urban_Python_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +46,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.module_2_1.executor": "Debug",
-    "Python.module_2_2.executor": "Run",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.module_2_1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_6.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,7 +90,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720648324593</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added homework #4">
+      <option name="closed" value="true" />
+      <created>1720656764266</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720656764266</updated>
+    </task>
+    <task id="LOCAL-00004" summary="module_2_6 decomposition">
+      <option name="closed" value="true" />
+      <created>1720690094458</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720690094458</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,8 +122,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added homework #3" />
-    <MESSAGE value="added homework #4" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework #4" />
+    <MESSAGE value="added homework #5" />
+    <MESSAGE value="added homework #5" />
+    <MESSAGE value="module_2_6 decomposition" />
+    <option name="LAST_COMMIT_MESSAGE" value="module_2_6 decomposition" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
